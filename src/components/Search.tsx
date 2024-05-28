@@ -1,4 +1,4 @@
-import React, { FC, useEffect, useState } from "react";
+import { FC, useEffect, useState } from "react";
 import ItemList from "./ItemList";
 import { SearchIcon } from "lucide-react";
 
